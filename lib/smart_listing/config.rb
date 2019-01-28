@@ -66,7 +66,7 @@ module SmartListing
           :icon_trash => "fas fa-trash",
           :icon_inactive => "fas fa-times-circle text-muted",
           :icon_show => "fas fa-share",
-          :icon_sort_none => "fas fa-arrows-alt-v",
+          :icon_sort_none => "fas fa-sort",
           :icon_sort_up => "fas fa-sort-up",
           :icon_sort_down => "fas fa-sort-down",
           :muted => "text-muted",
