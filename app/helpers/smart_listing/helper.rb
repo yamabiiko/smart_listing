@@ -255,6 +255,7 @@ module SmartListing
             :url => action.delete(:url),
             :icon => action.delete(:icon),
             :title => action.delete(:title),
+            :custom => action.delete(:custom)
           }
 
           template = nil
